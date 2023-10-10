@@ -12,10 +12,10 @@ All the training logs for the experiments in the paper and the corresponding mod
 ## Commands & reproducing results
 
 ### Getting started
-* python == 3.8.x
-* LTP == 4.1.5.post2 for the Chinese dataset
-* transformers == 4.7.x
-* CoreNLP == 4.4.0 for the English dataset
+* `python == 3.8.x`
+* `LTP == 4.1.5.post2` for the Chinese dataset
+* `transformers == 4.7.x`
+* `CoreNLP == 4.4.0` for the English dataset
 
 Do the following:
 All the commands are listed in the scripts directory. 
